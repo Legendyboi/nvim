@@ -1,2 +1,1 @@
 # NVChad-Config
-# nvim
